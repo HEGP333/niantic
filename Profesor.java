@@ -53,6 +53,8 @@ public class Profesor extends Persona
         System.out.println("Salario del Profesor " +getNombre() +": " + salarioProfesor);
     }
     
+    //fin?
+    
     }
     
 
