@@ -52,9 +52,6 @@ public class Profesor extends Persona
         double salarioProfesor = horasSemanales * 4 * valorHora;
         System.out.println("Salario del Profesor " +getNombre() +": " + salarioProfesor);
     }
-    
-    //fin?
-    
     }
     
 
