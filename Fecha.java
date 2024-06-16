@@ -31,16 +31,16 @@ public class Fecha{
         return año;
     }
     
-    public void setDia (int newDia){
-        this.dia = newDia;
+    public void setDia (int Dia){
+        this.dia = Dia;
     }
     
-    public void setMes (int newMes){
-        this.mes = newMes;
+    public void setMes (int Mes){
+        this.mes = Mes;
     }
     
-    public void setAño (int newAño){
-        this.año = newAño;
+    public void setAño (int Año){
+        this.año = Año;
     }
     
 }
