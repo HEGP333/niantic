@@ -14,7 +14,6 @@ public class Persona
     Fecha fechaIngreso;
     static double salarioBase = 1300000;
     
-    
     // constructor
     public Persona(String codigo, String cedula, String nombre, int edad, Fecha fechaActual, Fecha fechaIngreso){
       this.codigo=codigo;
@@ -26,10 +25,10 @@ public class Persona
     }
     
     public Persona(){
-      this.codigo="12313";
-      this.cedula="adads";
-      this.nombre="adnasksdj";
-      this.edad=14;
+      this.codigo="1152388";
+      this.cedula="1564645";
+      this.nombre="Juan";
+      this.edad=16;
     }
     //getters & setters
     public String getCodigo(){
